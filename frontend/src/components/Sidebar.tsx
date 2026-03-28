@@ -42,7 +42,7 @@ export const Sidebar = () => (
         }}>🏥</div>
         <div>
           <div style={{ fontFamily: "'Syne',sans-serif", fontWeight: 800, fontSize: '1rem', color: '#dff0f5', letterSpacing: '-0.01em' }}>
-            MediCore
+            DEMedi
           </div>
           {/* Subtítulo en mayúsculas pequeñas */}
           <div style={{ fontSize: '0.62rem', color: '#3d5a6a', fontWeight: 500, letterSpacing: '0.06em' }}>
